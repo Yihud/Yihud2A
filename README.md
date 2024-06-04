@@ -1,6 +1,6 @@
 ## Seja bem vindo 
 
-- Sou o estudante Yihud
+- Sou o aluno Yihud
 
 - Estou estudando na .[Alura](https://alura.com.br)
 
@@ -12,5 +12,6 @@
 
 0000110029644xsp@al.educacao.sp.gov.br
 
+⚔️🎮
 
 ![](https://www.icegif.com/wp-content/uploads/2022/08/icegif-600.gif)
